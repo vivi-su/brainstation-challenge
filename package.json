@@ -2,7 +2,6 @@
   "name": "starter-code-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +14,9 @@
   "source":"index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "latest"
-  },
-  "minifySvg": false
+  }
 }
