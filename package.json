@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel index.html",
     "dev": "parcel index.html",
-    "build": "parcel build index.html --no-minify"
+    "build": "parcel build index.html --no-source-maps --no-minify"
   },
   "keywords": [],
   "author": "",
