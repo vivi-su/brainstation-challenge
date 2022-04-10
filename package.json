@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vivischulz/ff.git"
+    "url": "git+https://github.com/vivischulz/brainstation-challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vivischulz/ff/issues"
+    "url": "https://github.com/vivischulz/brainstation-challenge/issues"
   },
-  "homepage": "https://github.com/vivischulz/ff#readme",
+  "homepage": "https://github.com/vivischulz/brainstation-challenge#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
